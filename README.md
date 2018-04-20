@@ -1,6 +1,6 @@
-#Resume Website for Michael Mueller
+# Resume Website for Michael Mueller
 
-##Ongoing Project Utilizing Bootstrap for Web Development
+## Ongoing Project Utilizing Bootstrap for Web Development
 This is an ongoing project to develop a resume/portfolio website for myself utilizing the tools provided
 by Bootstrap.
 
