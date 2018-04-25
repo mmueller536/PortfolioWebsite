@@ -60,7 +60,15 @@ p  {
 }
 
 .list-icons .list-inline-item i:hover {
-  color: #cc0000;
+  color: #660000;
+}
+
+.devicon-html5-plain, .devicons-css3, .devicons-javascript, .devicon-c-line, .devicon-java-plain {
+	color: #660000;
+}
+
+.devicon-html5-plain:hover, .devicons-css3:hover, .devicons-javascript:hover, .devicon-c-line:hover, .devicon-java-plain:hover {
+	color: #660000;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
